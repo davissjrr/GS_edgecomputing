@@ -1,4 +1,4 @@
-# Medidor de Energia Solar com Arduino
+# Medidor de Energia Solar com Arduino Uno
 
 ## Descrição
 Este projeto visa medir a energia elétrica produzida por uma fonte solar utilizando um Arduino e sensores de corrente e tensão. O sistema calcula a potência gerada pelo painel solar e exibe os resultados em um display LCD. A energia gerada pode ser visualizada em tempo real, o que permite monitorar o desempenho da instalação solar.
